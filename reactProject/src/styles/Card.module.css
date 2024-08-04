@@ -1,0 +1,21 @@
+.iconBox {
+  z-index: 1;
+  position: absolute;
+  top: -2.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #0d6efd;
+  color: #fff;
+  border-radius: 10%;
+  padding: 1rem;
+  font-size: 2rem;
+}
+
+.card {
+  background-color: #e0e0e0 !important;
+  margin-bottom: 40px;
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  position: relative;
+  padding: 3rem;
+}/*# sourceMappingURL=card.module.css.map */
